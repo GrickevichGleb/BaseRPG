@@ -1,8 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEditor.Profiling.Memory.Experimental;
+using RPG.Attributes;
 using UnityEngine;
-using UnityEngine.UIElements;
 
 namespace RPG.Attributes
 {
